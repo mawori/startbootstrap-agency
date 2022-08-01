@@ -1,10 +1,10 @@
-// 
+//
 // Global theme styling
-// 
+//
 
 // Scroll padding for all scroll targets on page used with
 // native CSS smooth scrolling
-// 
+//
 // https://caniuse.com/?search=scroll-padding
 
 html {
@@ -25,7 +25,7 @@ p {
 // Spacing and heading styling for page sections
 
 .page-section {
-    padding: 6rem 0;
+    padding: 2rem 0;
 
     h2.section-heading {
         font-size: 2.5rem;
@@ -38,7 +38,7 @@ p {
         font-weight: 400;
         font-style: italic;
         font-family: $subheadings-font-family;
-        margin-bottom: 4rem;
+        margin-bottom: 1rem;
     }
 }
 
